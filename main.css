@@ -1,3 +1,14 @@
 body {
   background-color: lightskyblue
 }
+
+#dino-barn {
+  display: flex;
+  
+}
+
+.dinosaur {
+  border: solid magenta 2px;
+  margin: 10px;
+  padding: 5px;
+}
