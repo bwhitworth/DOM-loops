@@ -24,10 +24,10 @@ const nameLoop = () => {
   let nameString = '';
   for(let i = 0; i < instructors.length; i++) {
     nameString += `<h2>${instructors[i].first} ${instructors[i].last}</h2>`;
-  };
-  console.log(nameString);
+  }
+  
 
 };
 
 nameLoop();
-console.log(''); //break console
+
